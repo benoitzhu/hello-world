@@ -1,2 +1,2 @@
 # hello-world
-Just for test
+This repository is just for test
